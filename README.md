@@ -3,3 +3,5 @@ Just a first repository
 
 - to be
 - or not to be
+
+*a small amendment
