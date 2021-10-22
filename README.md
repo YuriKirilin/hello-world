@@ -5,3 +5,6 @@ Just a first repository
 - or not to be
 
 *a small amendment
+
+this string is added from stop Stoplight
+[see 2nd article](docs/2nd-article.md)
