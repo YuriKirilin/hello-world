@@ -266,7 +266,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "delete": {
         "tags": [
@@ -393,7 +394,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/available_permissions": {
@@ -911,7 +913,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "delete": {
         "tags": [
@@ -1038,7 +1041,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/entity_users": {
@@ -1441,7 +1445,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "delete": {
         "tags": [
@@ -1568,7 +1573,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/entity_users/{entity_user_id}/{role_id}": {
