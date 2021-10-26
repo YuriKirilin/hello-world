@@ -639,7 +639,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/roles/{role_id}": {
@@ -770,7 +771,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "put": {
         "tags": [
@@ -1167,7 +1169,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/entity_users/{entity_user_id}": {
@@ -1298,7 +1301,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "put": {
         "tags": [
@@ -1705,7 +1709,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/comments/{object_type}/{object_id}": {
@@ -1843,7 +1848,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "post": {
         "tags": [
@@ -2119,7 +2125,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "put": {
         "tags": [
@@ -2419,7 +2426,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "post": {
         "tags": [
@@ -2806,7 +2814,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     },
     "/v1/transactions": {
@@ -3228,7 +3237,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "put": {
         "tags": [
@@ -4296,7 +4306,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "post": {
         "tags": [
@@ -4549,7 +4560,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       }
     }
   },
