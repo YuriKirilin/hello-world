@@ -2,7 +2,8 @@
   "openapi": "3.0.2",
   "info": {
     "title": "Partner Api",
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "description": "A description of API for *Monite partners*"
   },
   "servers": [
     {
@@ -15,8 +16,8 @@
         "tags": [
           "v1 Api Users"
         ],
-        "summary": "Validate Auth Status",
-        "description": "Validate authentication status",
+        "summary": "Validate (Check) Auth Status",
+        "description": "Validate (Check) authentication status",
         "operationId": "check_auth_status_v1_auth_get",
         "parameters": [
           {
@@ -376,7 +377,7 @@
           "v1 Entities"
         ],
         "summary": "Get Entities",
-        "description": "Get list of entities.<h3>Additional:</h3> name: ('', '__iexact')<br>created_at: ('', '__gt', '__lt', '__gte', '__lte')<br>api_user_id: ('',)",
+"description": "Get list of entities.<h3>Additional:</h3> name: ('', '__iexact')<br>created_at: ('', '__gt', '__lt', '__gte', '__lte')<br>api_user_id: ('',)",
         "operationId": "get_entities_v1_entities_get",
         "parameters": [
           {
