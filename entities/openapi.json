@@ -2687,7 +2687,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": true
       },
       "delete": {
         "tags": [
@@ -3924,7 +3925,8 @@
           {
             "APIKeyHeader": []
           }
-        ]
+        ],
+        "x-internal": false
       },
       "put": {
         "tags": [
